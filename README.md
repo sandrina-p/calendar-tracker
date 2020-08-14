@@ -1,5 +1,5 @@
 # calendar-tracker
-Track how many hours spent in certain calendar events
+Track how many hours were spent in certain calendar events
 
 
 ## How to run
